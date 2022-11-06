@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Trang chủ"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/menu"
+        android:title="Thực đơn"
+        android:icon="@drawable/menu"/>
+    <item android:title="Hoạt động"
+        android:icon="@drawable/hoatdong"
+        android:id="@+id/activity"/>
+    <item android:title="Thông báo"
+        android:icon="@drawable/noti"
+        android:id="@+id/noti"/>
+    <item android:title="Tài khoản"
+        android:icon="@drawable/account"
+        android:id="@+id/account"/>
+
+
+
+</menu>
